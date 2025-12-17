@@ -8,7 +8,7 @@
 
 ```
 .
-├── COVID19_Analysis.ipynb          # Основной Jupyter notebook с анализом
+├── analysis.ipynb          # Основной Jupyter notebook с анализом
 ├── requirements.txt                # Зависимости проекта
 ├── README.md                       # Документация проекта
 └── Presentation.pdf                # Презентация результатов (3 слайда)
