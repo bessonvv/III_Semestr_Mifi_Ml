@@ -1,0 +1,13 @@
+=== TELEGRAM BOT STOCK FORECAST LOG ===
+Timestamp | UserID | Ticker | Investment | Model | RMSE | Profit
+================================================================================
+2026-01-13 14:32:14 | UserID: 282095549 | Ticker: AAPL | Investment: $1000.00 | Model: LSTM | RMSE: 11.04 | Profit: $12.47
+2026-01-13 14:34:46 | UserID: 282095549 | Ticker: GOOGL | Investment: $400.00 | Model: LSTM | RMSE: 10.94 | Profit: $0.00
+2026-01-13 14:42:55 | UserID: 282095549 | Ticker: AAPL | Investment: $10000.00 | Model: LSTM | RMSE: 7.36 | Profit: $0.00
+2026-01-13 15:00:30 | UserID: 618687680 | Ticker: AAPL | Investment: $1500.00 | Model: LSTM | RMSE: 7.79 | Profit: $98.04
+2026-01-13 15:02:18 | UserID: 282095549 | Ticker: TSLA | Investment: $1500.00 | Model: Random Forest | RMSE: 19.51 | Profit: $7.25
+2026-01-13 15:06:17 | UserID: 282095549 | Ticker: GOOGL | Investment: $100.00 | Model: LSTM | RMSE: 10.23 | Profit: $0.00
+2026-01-13 15:20:05 | UserID: 282095549 | Ticker: TSLA | Investment: $500.00 | Model: Random Forest | RMSE: 19.51 | Profit: $2.42
+2026-01-13 15:41:35 | UserID: 282095549 | Ticker: AAPL | Investment: $10000.00 | Model: LSTM | RMSE: 11.95 | Profit: $56.46
+2026-01-13 15:46:45 | UserID: 282095549 | Ticker: TSLA | Investment: $500.00 | Model: Random Forest | RMSE: 19.51 | Profit: $2.42
+2026-01-13 15:47:54 | UserID: 282095549 | Ticker: TSLA | Investment: $500.00 | Model: Random Forest | RMSE: 19.51 | Profit: $2.42
