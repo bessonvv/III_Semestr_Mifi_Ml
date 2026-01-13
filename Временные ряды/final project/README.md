@@ -24,11 +24,6 @@
 
 ### 1. Клонирование репозитория
 
-```bash
-git clone <your-repository-url>
-cd Telegram_bot
-```
-
 ### 2. Создание виртуального окружения
 
 **Windows (PowerShell):**
@@ -231,3 +226,4 @@ Timestamp | UserID | Ticker | Investment | Model | RMSE | Profit
 ---
 
 **Удачного использования! 🚀**
+
